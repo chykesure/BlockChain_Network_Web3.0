@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@vitejs/plugin-react-swc": "^3.3.0",
+    "eslint-plugin-react-refresh": "^0.4.1"
+  },
+  "dependencies": {
+    "web3": "^4.0.1"
+  }
+}
